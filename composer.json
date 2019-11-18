@@ -1,0 +1,19 @@
+{
+    "name": "arnoldasjanuska/php2",
+    "description": "PHP2 Homework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "arnoldasjan",
+            "email": "arnuske@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nfq\\Academy\\": "src/"
+        }
+    },
+    "require": {
+        "php" : ">=7.3.9"
+    }
+}
